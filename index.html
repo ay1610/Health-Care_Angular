@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="vendor/js/angular.min.js"></script>
+        <script src="vendor/js/angular-route.min.js"></script>
+        <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css"/>
+        <script rel="stylesheet" href="vendor/bootstrap/bootstrap.min.js"></script>
+        <script src="js/app.js"></script>
+        <script src="js/healthController.js"></script>
+        <link rel="stylesheet" href="css/style.css"/>
+    </head>
+    <body ng-app="healthcareApp">
+        <nav class="navbar navbar-default"" role="navigation">
+            <div class="navbar-header pull-left">
+                <h2 class="headerTitle"> Healthcare.gov</h2>
+            </div>
+            <ul class="nav navbar-nav pull-right">
+                <li><a href="#/">Blog</a></li>
+                <li><a href="#glossary">Glosssary</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div ng-view></div>
+    </body>
+</html>

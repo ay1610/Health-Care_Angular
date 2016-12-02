@@ -1,0 +1,142 @@
+html,body,div,span,ul,li,nav,p,a,h1,h2,h3,h4,h5,h6{
+        margin:0;
+        padding:0;
+    }
+    ul li a{
+        font-size:14px;
+    }
+    .headerTitle{
+    	margin:10px;
+    }
+    .navbar{
+        margin-bottom:0px;
+    }
+    .titleWrapper{
+    	background-color:#cccccc;
+    }
+    .titleContainer{
+    	width:80%;
+    	margin:0 auto;
+    	padding:10px 0;
+    }
+    .blogContainer{
+    	overflow:hidden;
+    }
+    .blogContainer h4{
+    	float:left;margin:0px;
+    }
+    .glossaryContainer h4{
+    	margin-bottom:20px;
+    }
+    .searchDiv{
+    	overflow:hidden;
+    }
+    .searchDiv input{
+    	height: 34px;
+    	padding: 6px 12px;
+    	font-size: 14px;line-height: 1.42857143;color:#555;
+    	background-color: #fff;background-image: none;
+    	border: 1px solid #ccc;
+    	border-radius: 4px; 
+    	float:left;
+    	width:25%;
+    }
+    .searchDiv button {
+    	padding:5px 40px;
+    	margin-left:30px;
+    	float:left;
+    }
+    .selectDiv{
+    	height: 34px;
+    	padding: 6px 12px;
+    	font-size: 14px;
+    	line-height: 1.42857143;
+    	color:#555;
+    	background-color: #fff;
+    	background-image: none;
+    	border: 1px solid #ccc;
+    	border-radius: 4px;
+    	width:20%;
+    	float:right;
+    }
+    .contentContainer{
+    	width:80%;
+    	margin:0 auto;
+    }
+    .contentDiv{
+    	padding:5px;
+    }
+    .dataDiv{
+    	margin-bottom:20px;
+    }
+    .dataDiv a{
+    	font-size:24px;
+    	color:#1f497d
+    }
+    .description{
+    	overflow: hidden;
+    	text-overflow: ellipsis;
+    	display: -webkit-box;
+    	-webkit-line-clamp: 3;
+    	-webkit-box-orient: vertical;
+    }
+    .blogDataTitle{
+    	overflow:hidden;
+    }
+    .dateContent{
+    	float:right;
+    }
+    .category{
+    	margin:0 0 10px 20px;
+    	color:#a4a4a4
+    }
+    .contactContainer{
+    	width:60%;
+    	margin:2% 10%;
+    }
+    .contactContainer h3{
+    	margin-bottom:20px;
+    }
+    .contactSelect{
+    	width:40%;
+    	margin-left:8%;
+    	height: 34px;padding: 6px 12px;
+    	font-size: 14px;
+    	line-height: 1.42857143;color:#555;
+    	background-color: #fff;
+    	background-image: none;
+    	border: 1px solid #ccc;
+    	border-radius: 4px;
+    }
+    .contactInput{
+    	width:50%;
+    	height: 34px;
+    	padding: 6px 12px;
+    	font-size: 14px;
+    	line-height: 1.42857143;
+    	color:#555;
+    	background-color: #fff;
+    	background-image: none;
+    	border: 1px solid #ccc;
+    	border-radius: 4px;
+    }
+    .contactContent input{
+    	width:50%;
+    }
+    .errMessage{
+    	color:red;
+    }
+    .message{
+    	min-height:150px;
+    	margin-bottom:20px;
+    }
+
+
+
+
+
+
+
+
+
+

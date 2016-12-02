@@ -1,0 +1,83 @@
+[
+	{
+		"title": "English Post Get health coverage for your small business(English Post)",
+		"postLanguage":"english",
+		"category":"category1",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"postLink":"https://www.healthcare.gov/blog/get-health-coverage-for-your-small-business-employees-anytime/",
+		"date":"01/01/2001"
+	},
+	{
+		"title": "English Post Can you save on a 2017 Marketplace health plan? (English Post)",
+		"postLanguage":"english",
+		"category":"category1",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"postLink":"https://www.healthcare.gov/blog/save-on-health-insurance-with-2017-marketplace-plan/",
+		"date":"08/08/2008"
+	},
+	{
+		"title": "How to protect yourself from 'phishing' scams (English Post)",
+		"postLanguage":"english",
+		"category":"category2",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"postLink":"https://www.healthcare.gov/blog/protect-against-email-phishing-scams/",
+		"date":"05/05/2005"
+	},
+	{
+		"title": "5 Steps to stay covered through the Marketplace in 2015 (English Post)",
+		"postLanguage":"english",
+		"category":"category3",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"postLink":"https://www.healthcare.gov/blog/5-steps-to-stay-covered-through-the-marketplace/",
+		"date":"03/03/2003"
+	},
+	
+	{
+		"title": "Enroll in 2017 health insurance coverage now! (English Post)",
+		"postLanguage":"english",
+		"category":"category2",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"postLink":"https://www.healthcare.gov/blog/enroll-in-2017-health-insurance-today/",
+		"date":"06/06/2006"
+	},
+	{
+		"title": "Obtener la cobertura médica para los empleado (Spanish Post)",
+		"postLanguage":"spanish",
+		"category":"category4",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"postLink":"https://www.cuidadodesalud.gov/es/blog/get-health-coverage-for-your-small-business-employees-anytime/",
+		"date":"04/04/2004"
+	},
+	{
+		"title": "¿Puede ahorrar en un plan médico del Mercado para 2017? (Spanish Post)",
+		"postLanguage":"spanish",
+		"category":"category3",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"postLink":"https://www.cuidadodesalud.gov/es/blog/save-on-health-insurance-with-2017-marketplace-plan/",
+		"date":"02/02/2002"
+	},
+	{
+		"title": "¡Inscríbase ahora en la cobertura médica para 2017! (Spanish Post)",
+		"postLanguage":"spanish",
+		"category":"category5",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"postLink":"https://www.cuidadodesalud.gov/es/blog/enroll-in-2017-health-insurance-today/",
+		"date":"09/09/2009"
+	},
+	{
+		"title": "Semana Nacional de la Pequeña Empresa (Spanish Post)",
+		"postLanguage":"spanish",
+		"category":"category4",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"postLink":"https://www.cuidadodesalud.gov/es/blog/national-small-business-week-shop-coverage/",
+		"date":"10/10/2010"
+	},
+	{
+		"title": "Obtenga cobertura a través de SHOP (Spanish Post)",
+		"postLanguage":"spanish",
+		"category":"category6",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"postLink":"https://www.cuidadodesalud.gov/es/blog/get-coverage-now-through-the-SHOP-Marketplace/",
+		"date":"07/07/2007"
+	}
+]

@@ -1,0 +1,19 @@
+<div class="contactContainer">
+    <h3>Contact Us</h3>
+    <form name="contactForm">
+        <div class="form-group contactContent">
+            <input ng-model="contact.name" ng-change="validate(contact)" type="text" class="form-control" id="name" placeholder="Name">
+        </div>
+        <div class="form-group">
+            <input type="email" class="contactInput" name="input" ng-change="validate(contact)" ng-model="contact.email" id="email" placeholder="Email address">
+            <select class="contactSelect"  ng-change="validate(contact)" ng-model="contact.selectedReason" ng-options="reason for reason in reasons"></select>
+        </div>
+  <textarea class="form-control message" ng-change="validate(contact)" ng-model="contact.message" placeholder=" Message"></textarea>
+  <div ng-if="errMessage" class="errMessage">All fields are required</div>
+  <button type="submit" class="btn btn-primary pull-right">Submit</button>
+  <div  class="errMessage" ng-if="contactForm.input.$error.email">
+        Not a valid email address!
+  </div>
+</form>
+
+</div>

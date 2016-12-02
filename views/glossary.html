@@ -1,0 +1,24 @@
+<div>
+<div class="titleWrapper">
+	<div class="titleContainer glossaryContainer">
+		<h4>Glossary</h4>
+  		<div class="form-group searchDiv">
+    		<input type="text" id="name" placeholder="Search" ng-model="searchText">
+    		<button type="submit" class="btn btn-primary" ng-click="filterSearch = searchText">OK</button>
+    		<select class="selectDiv" ng-model="selectedLang" ng-change="languageChanged(selectedLang)"> 
+    			<option value="english">English</option>
+        		<option value="spanish">Spanish</option>
+        		<option value="" >Both</option>
+        	</select>
+  		</div>
+  	</div>
+  	</div>
+  	<div class="contentContainer">
+	<div class="contentDiv" ng-repeat="data in filteredData | filter : filterSearch">
+		<div class="dataDiv">
+			<a href="" ng-click="openPost(data.glossaryLink)";>{{data.title}}</a>
+			<div class="description">{{data.definition}}</div>
+		</div>
+	</div>
+	</div>
+</div>
